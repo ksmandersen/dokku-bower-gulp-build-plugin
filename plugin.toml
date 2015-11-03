@@ -1,0 +1,4 @@
+[plugin]
+description = "Add build steps for bower and gulp"
+version = "1.0"
+[plugin.config]
